@@ -25,4 +25,11 @@ The main game loop updates the snake’s position, checks for collisions, handle
 
 <img width="399" height="655" alt="Screenshot 2026-04-16 at 4 21 04 PM" src="https://github.com/user-attachments/assets/63333dda-69c1-48ee-a81e-1f06a71171f7" />
 
+## How to Run
+1. Clone or download this repository
+2. Open the project file in VScode
+3. Run the program:
+   python3.11 Project2_qk.py
+4. A window will open showing the snake game (stationary)
+5. Close the window to quit the game
 
