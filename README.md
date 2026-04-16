@@ -23,5 +23,6 @@ The project is structured around reusable functions:
 
 The main game loop updates the snake’s position, checks for collisions, handles scoring, and redraws the screen continuously. Random apple placement and player input make each playthrough slightly different, creating an engaging gameplay experience.
 
+<img width="399" height="655" alt="Screenshot 2026-04-16 at 4 21 04 PM" src="https://github.com/user-attachments/assets/63333dda-69c1-48ee-a81e-1f06a71171f7" />
 
 
