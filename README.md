@@ -5,7 +5,7 @@ This project creates a simple and visually appealing Snake game using the Python
 
 The program demonstrates basic concepts in Python game development, including:
 
-- Drawing shapes and UI elements using Pygame
+- Drawing shapes and user - interface elements using Pygame
 - Using functions to organize and modularize code
 - Handling keyboard and mouse input
 - Implementing game loops and timed events
