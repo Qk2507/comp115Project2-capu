@@ -10,7 +10,8 @@ The program demonstrates basic concepts in Python game development, including:
 - Handling keyboard and mouse input
 - Implementing game loops and timed events
 - Collision detection and grid-based movement
-Code Overview
+
+## Code Overview
 
 The project is structured around reusable functions:
 
