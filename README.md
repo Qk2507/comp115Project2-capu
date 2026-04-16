@@ -1,2 +1,2 @@
-# comp115Project2-capu
+# Snake Game
 Project 2 new repository
