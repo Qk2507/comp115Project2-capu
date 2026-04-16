@@ -22,3 +22,6 @@ The project is structured around reusable functions:
 - change_dir(cur, nxt, dx, dy) - Updates the snake’s direction while preventing it from reversing into itself.
 
 The main game loop updates the snake’s position, checks for collisions, handles scoring, and redraws the screen continuously. Random apple placement and player input make each playthrough slightly different, creating an engaging gameplay experience.
+
+
+
